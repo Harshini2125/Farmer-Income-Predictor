@@ -56,3 +56,26 @@ To predict the income of farmers using features like landholding, crop type, liv
    ```bash
    git clone https://github.com/your-username/Farmer-income-predictor.git
    cd Farmer-income-predictor
+2.Run the notebook or the main script:
+
+bash
+Copy
+Edit
+jupyter notebook notebooks/EDA_and_Modeling.ipynb
+# OR
+python main.py
+(Optional) Load the trained model from models/trained_model.pkl for inference.
+
+📈 Future Enhancements
+Add a web app using Streamlit for user input and predictions.
+
+Incorporate satellite or weather data.
+
+Deploy via Flask or FastAPI as an API service.
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🤝 Contributors
+Harshini Marisetti and Nikitha Durgam – Data Analysis & ML Modeling
+
