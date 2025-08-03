@@ -1,0 +1,12 @@
+2025-08-02 12:26:35,700 - INFO - \U0001f4e5 Data loaded successfully.
+2025-08-02 12:26:49,327 - INFO - \U0001f4e4 Predictions saved to: Predictions.csv
+2025-08-02 12:26:51,527 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\target_distribution.png
+2025-08-02 12:26:51,968 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\feature_importance_top30.png
+2025-08-02 12:26:52,801 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\correlation_heatmap.png
+2025-08-02 12:26:53,358 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\prediction_error_distribution.png
+2025-08-02 12:26:54,274 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\actual_vs_predicted.png
+2025-08-02 12:27:01,169 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\pairplot_top5_features.png
+2025-08-02 12:27:29,249 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\learning_curve.png
+2025-08-02 12:27:29,904 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\residual_plot.png
+2025-08-02 12:27:31,207 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\mape_by_features.png
+2025-08-02 12:27:31,807 - INFO - \U0001f4ca Saved plot: .\images\training_farmer_income_models\top15_correlations.png
